@@ -49,4 +49,4 @@ def jugar_ahorcado():
 
 jugar_ahorcado()
 
-# Para jugar, escribe en la terminal python index.py
+# Para jugar, escribe en la terminal 'python index.py'

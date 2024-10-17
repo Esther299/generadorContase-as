@@ -25,4 +25,4 @@ usar_simbolos = input("¿Incluir símbolos? (s/n): ").lower() == 's'
 contraseña_generada = generar_contraseña(longitud, usar_mayusculas, usar_numeros, usar_simbolos)
 print(f"Contraseña generada: {contraseña_generada}")
 
-# Para generar la contraseña, escribe en la terminal python index.py
+# Para generar la contraseña, escribe en la terminal 'python index.py'
